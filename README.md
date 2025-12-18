@@ -29,3 +29,10 @@
 克隆仓库  
    ```bash
    git clone https://github.com/chsn1024/bing-automation-reward.git
+
+## 🤝 贡献
+欢迎提交 Issue 或 Pull Request，共同解决「易检测」与「回退首页」两大难题。
+如果你找到了更稳的伪装方案，我正需要你的帮助！
+
+## 📄 License
+MIT License — 可自由修改、分发，但请保留原作者信息。
